@@ -1,2 +1,2 @@
-# internship
+#  Technohacks internship
 DATA SCIENCE
